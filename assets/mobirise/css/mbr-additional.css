@@ -1409,6 +1409,7 @@ body {
 }
 .cid-rf4AQjt1pp .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rf4AQjt1pp .card-wrapper {
   height: 100%;
@@ -1420,6 +1421,9 @@ body {
 .cid-rf4AQjt1pp .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-rf4AQjt1pp .card-title {
+  text-align: center;
 }
 .cid-rf4T6u15NU .navbar {
   padding: .5rem 0;
